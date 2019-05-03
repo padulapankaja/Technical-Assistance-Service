@@ -1,0 +1,26 @@
+	.main{
+
+	overflow: auto;
+	padding-bottom: 100px;
+	
+	
+	padding-top: 10px;
+	width: 100%;
+	margin-top: 10px;
+	background-color: red;
+	color: green;
+
+	
+
+
+}
+.main h2{
+	color:blue;
+}
+.content{
+	width: 800px;
+	margin: 0 auto;
+}
+.content .loading{
+	text-align: center;
+}

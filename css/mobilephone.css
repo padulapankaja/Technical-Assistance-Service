@@ -1,0 +1,24 @@
+.btnSubmit{
+	margin-left: 250px;
+	 border: 2px solid red;
+	 box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	 font-size: 16px;
+	 padding: 10px 20px;
+    text-align: center;
+    border-radius: 15px;
+    color: black;
+    background-color: #4CAF50;
+    cursor: pointer;
+}
+.form
+{
+	margin-left: 150px;
+}
+.table01{
+
+	margin-left: 150px;
+}
+.choose{
+
+	color:green;
+}

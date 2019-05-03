@@ -1,0 +1,144 @@
+/*footer css*/
+
+
+.footer{
+	width: 100%;
+	margin-top: 10px;
+	margin-bottom: 15px;
+	float: left;
+	background-color: orange;
+	border-top: 3px solid  #adad85;
+	border-bottom:  3px solid  #adad85;  
+	
+
+
+
+
+
+
+}
+
+.footer-col2{
+	display: inline-block;
+	margin-left:20px;
+	width: 275px;
+	
+	float: left;
+	
+
+
+
+}
+.footer-col1{
+	/*display: inline-block;*/
+	margin-left:20px;
+	width: 275px;
+	
+	float: left;
+	
+
+}
+.footer-col3{
+	display: inline-block;
+	margin-left:10px;
+	width: 275px;
+	
+	float: left;
+	/*background-color: blue;
+*/}
+
+.footer-col4{
+	/*display: inline-block;*/
+	margin-left:20px;
+	width: 275px;
+	
+	float: left;
+	margin-top: 20px;
+	
+	
+	
+
+}
+table#table02{
+	/*margin-left: 80px;
+	margin-top: 20px;
+*/
+margin-top:-30px;
+margin-left: -180px;
+}
+
+.footer-col1 , .footer-col2 ,.footer-col3,.footer-col4  h4{
+	margin-top: 15px;
+	text-transform: uppercase;
+	color: 	#191970;
+	font-family: arial;
+	font-size: 14px;
+	
+}
+
+
+.quick-links a{
+	padding-bottom: 8px;
+	margin:5px 10px 5px 5px;
+	display: block;
+	/*border-bottom: 0.5px solid #adad85;*/
+	color: black;
+	font-family: arial;
+	font-size: 14px;
+
+
+}
+
+.quick-links a:hover{
+	color:maroon
+}
+
+div .footer-col div.blog-title h3{
+	margin:10px 10px 0 10px;
+	font-family: arial;
+	font-size: 15px; 
+
+}
+
+.blog-title a:hover{
+	color:maroon;
+}
+
+
+
+
+ .company p   {text-align: center;}
+
+
+.location{
+	margin-top: -65px;
+	margin-left: 100px;
+
+}
+
+
+input[type=text]
+{
+	margin-top: 5px;
+	border-radius: 5px;
+}
+input[type=email]
+{
+	margin-top: 5px;
+	border-radius: 5px;
+}
+input[type=checkbox] {
+    margin-top: 16px;
+}
+
+input[type=submit] {
+    background-color: #4CAF50;
+    margin-top: 5px;
+    color: white;
+    border: none;
+}
+
+input[type=submit]:hover {
+    opacity: 0.8;
+    background-color: red;
+}

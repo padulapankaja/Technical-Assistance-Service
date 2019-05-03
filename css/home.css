@@ -1,0 +1,92 @@
+
+.main{
+
+	overflow: auto;
+	padding-bottom: 100px;
+	
+	height: 400px;
+	padding-top: -500px;
+	width: 100%;
+	margin-top: 10px;
+	
+
+
+}
+
+
+
+.slideshow{
+
+	width: 100%;
+	height: 50%;
+	border-radius: 25px;
+
+	
+
+	
+}	
+
+
+
+.new, .news, .events{
+
+	width: 383px;
+	/*position: absolute;
+	*/
+	float: left;
+	
+
+}
+.mySlides {
+	width: 350;
+	height: 300;
+}
+
+.eventsnew{
+	width: 50%;
+	margin: 5px solid red;
+	
+}
+.whyus{
+	margin-top: 50px;
+	margin-left: 200px;
+	margin-right: 250px;
+	background-color: red;
+}
+.whyus h1{
+	float: center;
+
+}
+
+table#whyus  p{
+	text-decoration:none;
+	 text-align-last: right;
+	 font-size: 15px;
+}
+.whyus table  {
+	border-spacing: 10px;
+	
+}
+
+ #img:hover ,#letter:hover{
+	 animation: shake 0.5s;
+  animation-iteration-count: infinite;
+}
+.whyus h1{
+	margin-left: 300px;
+}
+
+.ceoandothers
+{
+	padding: 100px;
+	border: 2px solid black;
+	position: inherit;
+	background-color:  green;
+
+}
+table .ceo{
+	float: right;
+}
+#ceoMore{
+	color:blue;
+}
